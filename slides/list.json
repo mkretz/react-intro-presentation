@@ -1,3 +1,11 @@
 [
-    "index.md"
+    "index.md",
+    "functional-components.md",
+    "class-components.md",
+    "typing.md",
+    "managing-application-state-redux.md",
+    "unidirectional-data-flow.md",
+    "immutability-and-shallow-comparison.md",
+    "server-rendering.md",
+    "realtime-updates.md"
 ]
