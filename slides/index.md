@@ -1,10 +1,4 @@
 
 # Component-based UI development with React
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+![An image](resources/react-logo.svg) <!-- .element height="30%" width="30%" -->

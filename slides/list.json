@@ -1,7 +1,10 @@
 [
     "index.md",
+    "pure-javascript.md",
+    "virtual-dom.md",
     "functional-components.md",
     "class-components.md",
+    "component-lifecycle.md",
     "typing.md",
     "managing-application-state-redux.md",
     "unidirectional-data-flow.md",
