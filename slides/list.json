@@ -10,5 +10,6 @@
     "unidirectional-data-flow.md",
     "immutability-and-shallow-comparison.md",
     "server-rendering.md",
-    "realtime-updates.md"
+    "realtime-updates.md",
+    "license-situation.md"
 ]
