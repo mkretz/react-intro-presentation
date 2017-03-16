@@ -1,3 +1,3 @@
 ##  Typing
 
-This is a new Markdown slide
+* Prop types

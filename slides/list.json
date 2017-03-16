@@ -5,17 +5,26 @@
         "pure-javascript-js.md",
         "pure-javascript-control-logic.md"
     ],
-    "virtual-dom.md",
+    [
+        "virtual-dom.md"
+    ],
     [
         "functional-components.md",
         "class-components.md",
+        "component-rendering.md",
         "component-lifecycle.md"
     ],
-    "typing.md",
-    "managing-application-state-redux.md",
-    "unidirectional-data-flow.md",
-    "immutability-and-shallow-comparison.md",
+    [
+        "typing.md",
+        "typing-flow.md",
+        "typing-typescript.md"
+    ],
+    [
+        "application-state-redux.md",
+        "unidirectional-data-flow.md",
+        "immutability-and-shallow-comparison.md",
+        "realtime-updates.md"
+    ],
     "server-rendering.md",
-    "realtime-updates.md",
     "license-situation.md"
 ]
