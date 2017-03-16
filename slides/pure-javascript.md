@@ -1,15 +1,14 @@
 ##  Pure Javascript
-```javascript
-import React from 'react';
-
-const Greeting = () => (
-    <div>
-      Hello World!
-    </div>
-)
-
-export default Greeting;```
 
 * everything in React is written in Javascript
-* there are no HTML templates
 * JSX syntax
+
+```javascript
+class HelloMessage extends React.Component {
+  render() {
+    return <div>Hello {this.props.name}</div>;
+  }
+}
+
+ReactDOM.render(<HelloMessage name="John" />, mountNode);
+```

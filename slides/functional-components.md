@@ -1,3 +1,13 @@
-##  Functional Components
+##  Components
+* stateless functional components
 
-This is a new Markdown slide
+```javascript
+const NotificationElement = ({notification, onDismiss}) => (
+  <div>
+    <ListItem
+      primaryText={notification.text}
+      leftIcon={<ActionGrade />}
+      rightIconButton={<IconButton onClick={() => onDismiss(notification)} tooltip="dismiss"><ActionDelete /></IconButton>}/>
+    <Divider />
+  </div>
+)```

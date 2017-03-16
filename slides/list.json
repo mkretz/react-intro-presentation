@@ -1,10 +1,16 @@
 [
     "index.md",
-    "pure-javascript.md",
+    [
+        "pure-javascript.md",
+        "pure-javascript-js.md",
+        "pure-javascript-control-logic.md"
+    ],
     "virtual-dom.md",
-    "functional-components.md",
-    "class-components.md",
-    "component-lifecycle.md",
+    [
+        "functional-components.md",
+        "class-components.md",
+        "component-lifecycle.md"
+    ],
     "typing.md",
     "managing-application-state-redux.md",
     "unidirectional-data-flow.md",
