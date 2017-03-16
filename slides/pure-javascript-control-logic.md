@@ -1,4 +1,4 @@
-* there are no HTML templates or directives
+*   there are no HTML templates or directives
 
 ```javascript
 class Words extends React.Component {

@@ -1,1 +1,1 @@
-* Component lifecycle
+*   Component lifecycle

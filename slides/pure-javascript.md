@@ -1,7 +1,7 @@
-##  Pure Javascript
+## Pure Javascript
 
-* everything in React is written in Javascript
-* JSX syntax
+*   everything in React is written in Javascript
+*   JSX syntax
 
 ```javascript
 class HelloMessage extends React.Component {

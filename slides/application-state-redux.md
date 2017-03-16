@@ -1,3 +1,3 @@
-##  Managing application state: Redux
+## Managing application state: Redux
 
 This is a new Markdown slide

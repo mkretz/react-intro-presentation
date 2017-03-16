@@ -1,5 +1,5 @@
-##  Components
-* stateless functional components
+## Components
+*   stateless functional components
 
 ```javascript
 const NotificationElement = ({notification, onDismiss}) => (

@@ -1,1 +1,1 @@
-* component rendering
+*   component rendering

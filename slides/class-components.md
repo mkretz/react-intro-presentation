@@ -1,4 +1,4 @@
-* stateful class components
+*   stateful class components
 
 ```javascript
 export class NotificationForm extends React.Component {

@@ -1,3 +1,3 @@
-##  Typing
+## Typing
 
-* Prop types
+*   Prop types

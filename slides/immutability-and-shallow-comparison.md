@@ -1,3 +1,3 @@
-##  Immutability and shallow comparison
+## Immutability and shallow comparison
 
 This is a new Markdown slide
