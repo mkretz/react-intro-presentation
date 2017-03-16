@@ -6,7 +6,9 @@
         "pure-javascript-control-logic.md"
     ],
     [
-        "virtual-dom.md"
+        "virtual-dom.md",
+        "virtual-dom-algorithm.md",
+        "virtual-dom-by-products.md"
     ],
     [
         "functional-components.md",
