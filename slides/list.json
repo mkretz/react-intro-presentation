@@ -19,13 +19,14 @@
         "functional-components.md",
         "class-components.md",
         "component-rendering.md",
+        "immutability-and-shallow-comparison.md",
         "component-lifecycle.md"
     ],
     [
         "application-state-redux.md",
         "unidirectional-data-flow.md",
-        "immutability-and-shallow-comparison.md",
-        "realtime-updates.md"
+        "actions.md",
+        "asynchronous-updates.md"
     ],
     "server-rendering.md",
     "testing.md",
