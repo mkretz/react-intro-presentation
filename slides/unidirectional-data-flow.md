@@ -1,3 +1,2 @@
-### Unidirectional data flow
-
-This is a new Markdown slide
+*   unidirectional data flow
+![redux](resources/react-redux.jpeg)

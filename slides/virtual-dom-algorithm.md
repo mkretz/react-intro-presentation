@@ -1,3 +1,1 @@
-*   components declaratively represent DOM
-*   efficient diff calculation
-*   batched manipulations of the real DOM
+![virtual DOM](resources/react-virtual-dom.jpeg)
