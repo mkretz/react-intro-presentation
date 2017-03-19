@@ -28,7 +28,10 @@
         "actions.md",
         "asynchronous-updates.md"
     ],
-    "server-rendering.md",
+    [
+        "server-rendering.md",
+        "server-rendering-data.md"
+    ],
     "testing.md",
     "license-situation.md"
 ]
