@@ -1,2 +1,2 @@
 ## Managing application state
-![redux](resources/react-redux.jpeg)
+![redux](resources/react-redux-ext.jpeg)
