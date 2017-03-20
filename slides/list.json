@@ -32,6 +32,10 @@
         "server-rendering.md",
         "server-rendering-data.md"
     ],
-    "testing.md",
+    [
+        "testing.md",
+        "testing-integration.md",
+        "testing-e2e.md"
+    ],
     "license-situation.md"
 ]

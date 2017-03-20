@@ -1,2 +1,4 @@
-*   by-product: easy server-side rendering
-*   by-product: non-DOM rendering becomes available (e.g. React Native)
+*   by-products
+    *   easy server-side rendering
+    *   non-DOM rendering becomes available (e.g. React Native)
+    *   interesting possibilities for testing 
