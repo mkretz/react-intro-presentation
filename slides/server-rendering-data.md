@@ -6,7 +6,7 @@
   </script>
 ```
 
-*   initialize Redux with preloaded state
+*   on the client initialize Redux with preloaded state
 
 ```
 import React from 'react'
