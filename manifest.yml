@@ -1,0 +1,9 @@
+---
+applications:
+- name: react-intro-presentation
+  memory: 64MB
+  path: dist
+  buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+
+  env:
+    FORCE_HTTPS: true
