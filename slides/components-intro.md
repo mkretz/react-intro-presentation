@@ -1,4 +1,4 @@
-## Components: intro
+## Components
 
 *   stateless functional components
 *   stateful class components
