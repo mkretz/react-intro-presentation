@@ -1,7 +1,7 @@
-*   more elaborate: flow (https://flowtype.org/)
-*   static type checker for Javascript
-*   checks pure Javascript or annotated code
-*   annotations are stripped using Babel
+*   flow (https://flowtype.org/)
+    *   static type checker for Javascript
+    *   checks pure Javascript or annotated code
+    *   annotations are stripped using Babel
 
 ```javascript
 /* @flow */

@@ -1,6 +1,3 @@
-## Pure Javascript
-
-*   everything in React is written in Javascript
 *   JSX syntax
 
 ```javascript

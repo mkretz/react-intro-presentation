@@ -1,11 +1,13 @@
 [
     "index.md",
     [
+        "pure-javascript-intro.md",
         "pure-javascript.md",
         "pure-javascript-js.md",
         "pure-javascript-control-logic.md"
     ],
     [
+        "typing-intro.md",
         "typing.md",
         "typing-flow.md",
         "typing-typescript.md"
@@ -16,6 +18,7 @@
         "virtual-dom-by-products.md"
     ],
     [
+        "components-intro.md",
         "functional-components.md",
         "class-components.md",
         "component-rendering.md",
@@ -23,6 +26,7 @@
         "component-lifecycle.md"
     ],
     [
+        "application-state-intro.md",
         "application-state-redux.md",
         "unidirectional-data-flow.md",
         "actions.md",
@@ -30,6 +34,7 @@
     ],
     [
         "server-rendering.md",
+        "server-rendering-server.md",
         "server-rendering-data.md"
     ],
     [

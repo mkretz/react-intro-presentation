@@ -1,12 +1,10 @@
-*   pass application state to the client
+*   on the client initialize Redux with preloaded state
 
 ```html
   <script>
       window.__APPLICATION_STATE__ = ${JSON.stringify(state)}
   </script>
 ```
-
-*   on the client initialize Redux with preloaded state
 
 ```
 import React from 'react'

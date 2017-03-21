@@ -1,4 +1,3 @@
-## Typing
 *   out of the box: `propTypes`
 *   checks at runtime, warnings in console
 *   development mode only

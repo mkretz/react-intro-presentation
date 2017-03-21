@@ -1,4 +1,3 @@
-## Components
 *   stateless functional components
 
 ```javascript

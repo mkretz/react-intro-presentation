@@ -1,5 +1,5 @@
-*   you can also use Typescript
-*   JSX turns into TSX
+*   Typescript
+    *   JSX turns into TSX
 
 ```typescript
 /// <reference path="../typing/react.d.ts" />
