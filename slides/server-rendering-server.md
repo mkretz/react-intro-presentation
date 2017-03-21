@@ -3,10 +3,14 @@
 ```javascript
 import { renderToString } from 'react-dom/server'
 
-const html = renderToString(
-  <Provider store={store}>
-    <App />
-  </Provider>
-
-res.send(html)
+function handleRender(req, res) {
+  const store = createStore(...)
+  const html = renderToString(
+    <Provider store={store}>
+      <App />
+    </Provider>
+  )
+  const preloadedState = store.getState()
+  res.send(renderFullPage(html, preloadedState))
+}
 ```
