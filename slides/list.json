@@ -7,12 +7,6 @@
         "pure-javascript-control-logic.md"
     ],
     [
-        "typing-intro.md",
-        "typing.md",
-        "typing-flow.md",
-        "typing-typescript.md"
-    ],
-    [
         "virtual-dom.md",
         "virtual-dom-algorithm.md",
         "virtual-dom-by-products.md"
@@ -24,6 +18,12 @@
         "component-rendering.md",
         "immutability-and-shallow-comparison.md",
         "component-lifecycle.md"
+    ],
+    [
+        "typing-intro.md",
+        "typing.md",
+        "typing-flow.md",
+        "typing-typescript.md"
     ],
     [
         "application-state-intro.md",
